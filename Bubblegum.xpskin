@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "name": "Bubblegum",
+  "description": "Hell und rosa mit Magenta als Akzent, die Navigationsleiste in dunklem Beerenlila. Status- und Hoverfarben sind bewusst tiefer, damit Text lesbar bleibt.",
+  "author": "Nicolai Hanisch",
+  "base": "light",
+
+  "seeds": {
+    "background": "#FFF1F8",
+    "primary": "#C81A78",
+    "secondary": "#9C1FA6",
+    "text": "#3D0F30",
+    "navigation": "#6E1A50",
+    "error": "#C01230",
+    "success": "#0E6E4B",
+    "warning": "#8A6400"
+  },
+
+  "palette": {
+    "content": "#FFF8FC",
+    "hover": "#FFE3F1",
+    "selection": "#FFD0E7",
+    "outline": "#F6D2E4",
+    "outlineStrong": "#E7A7C9",
+    "textSecondary": "#79506C",
+    "textTertiary": "#8A6480",
+    "chromeText": "#FFEAF6",
+    "chromeTextSecondary": "#E8BCD8",
+    "chromeTextTertiary": "#DFB3CE",
+    "accentHover": "#A21261",
+    "accentContainer": "#FFC9E6",
+    "callBackground": "#FFC9E6",
+    "ownMessage": "#FFC9E6",
+    "badge": "#C4136A"
+  },
+
+  "fonts": {
+    "normal": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "semiBold": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "bold": "Bahnschrift Bold, Segoe UI Bold, Segoe UI",
+    "italic": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "normalWeight": "Medium"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "name": "Winterfell",
+  "description": "Eisen, Pergament und Gold wie in Game of Thrones, Rot für Zähler und Fehler.",
+  "author": "Nicolai Hanisch",
+  "base": "dark",
+
+  "seeds": {
+    "background": "#101519",
+    "primary": "#C9A227",
+    "secondary": "#8FB6D6",
+    "text": "#EAE3D3",
+    "navigation": "#0A0D0F",
+    "error": "#E86B6B",
+    "success": "#7FAE68",
+    "warning": "#E0B84A"
+  },
+
+  "palette": {
+    "content": "#171C21",
+    "card": "#1F262C",
+    "field": "#1F262C",
+    "raised": "#29323A",
+    "hover": "#333E47",
+    "selection": "#33291A",
+    "outline": "#2B343B",
+    "outlineStrong": "#3D4A53",
+    "textSecondary": "#B7AE9B",
+    "textTertiary": "#99917F",
+    "chromeTextSecondary": "#B7AE9B",
+    "chromeTextTertiary": "#8B8373",
+    "accentHover": "#E3BE4C",
+    "accentContainer": "#40320F",
+    "callBackground": "#40320F",
+    "ownMessage": "#40320F",
+    "badge": "#A81E14",
+    "onBadge": "#F5EAD6"
+  },
+
+  "fonts": {
+    "normal": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "semiBold": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "bold": "Bahnschrift Bold, Segoe UI Bold, Segoe UI",
+    "italic": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "normalWeight": "Medium"
+  }
+}

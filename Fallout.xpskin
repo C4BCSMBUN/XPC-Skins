@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "name": "Fallout",
+  "description": "Radioaktiv: Bunkergrün mit Giftgrün, wie eine alte Röhrenanzeige. Alle Farben entstehen aus zwei Grundfarben.",
+  "author": "Nicolai Hanisch",
+
+  "seeds": {
+    "background": "#0B110C",
+    "primary": "#64DC46"
+  },
+
+  "fonts": {
+    "normal": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "semiBold": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "bold": "Bahnschrift Bold, Segoe UI Bold, Segoe UI",
+    "italic": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "normalWeight": "Medium"
+  }
+}

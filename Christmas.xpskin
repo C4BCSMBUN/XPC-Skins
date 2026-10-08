@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "name": "Christmas",
+  "description": "Tannengrün mit Gold, Preiselbeerrot und Schneeweiß. Kontaktnamen und Überschriften in Gabriola.",
+  "author": "Nicolai Hanisch",
+  "base": "dark",
+
+  "seeds": {
+    "background": "#0C1710",
+    "primary": "#E8B44A",
+    "secondary": "#9FD8E8",
+    "text": "#F2F7F3",
+    "navigation": "#071009",
+    "error": "#F2645C",
+    "success": "#6FD37E",
+    "warning": "#F0CE55"
+  },
+
+  "palette": {
+    "content": "#102015",
+    "card": "#16291B",
+    "field": "#16291B",
+    "raised": "#1D3423",
+    "hover": "#26422C",
+    "selection": "#33280F",
+    "outline": "#1E3324",
+    "outlineStrong": "#38553F",
+    "textSecondary": "#C3D6C8",
+    "textTertiary": "#9FB6A6",
+    "chromeTextSecondary": "#C3D6C8",
+    "chromeTextTertiary": "#9FB6A6",
+    "accentHover": "#F5CC72",
+    "accentContainer": "#453416",
+    "callBackground": "#453416",
+    "ownMessage": "#453416",
+    "badge": "#B01F26",
+    "onBadge": "#FFF6EA"
+  },
+
+  "fonts": {
+    "normal": "Segoe UI Semibold, Segoe UI",
+    "semiBold": "Gabriola, Segoe Script, Segoe UI Semibold",
+    "bold": "Gabriola, Segoe Script, Segoe UI Semibold",
+    "italic": "Gabriola, Segoe Script, Segoe UI Semibold",
+    "normalWeight": "Medium"
+  }
+}

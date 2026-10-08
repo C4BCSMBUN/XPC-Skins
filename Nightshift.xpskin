@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "name": "Nightshift",
+  "description": "Dunkles Stahlblau mit dem hellen C4B-Markenblau als Akzent.",
+  "author": "Nicolai Hanisch",
+  "base": "dark",
+
+  "seeds": {
+    "background": "#141A1D",
+    "primary": "#54B8EC",
+    "secondary": "#79D3FE",
+    "text": "#E8EDF0",
+    "navigation": "#0E1214",
+    "error": "#FF7A7A",
+    "success": "#54D6A6",
+    "warning": "#FFD264"
+  },
+
+  "palette": {
+    "content": "#1A2126",
+    "card": "#212A30",
+    "field": "#212A30",
+    "raised": "#29343B",
+    "hover": "#323F47",
+    "selection": "#1C3D4F",
+    "outline": "#2E3A41",
+    "outlineStrong": "#3F4E57",
+    "textSecondary": "#AEBBC3",
+    "textTertiary": "#8695A0",
+    "chromeTextSecondary": "#AEBBC3",
+    "chromeTextTertiary": "#8695A0",
+    "accentHover": "#7ACCF4",
+    "accentContainer": "#1E4E64",
+    "callBackground": "#1E4E64",
+    "ownMessage": "#1E4E64",
+    "badge": "#E5484D",
+    "onBadge": "#0E1214"
+  },
+
+  "fonts": {
+    "normal": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "semiBold": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "bold": "Bahnschrift Bold, Segoe UI Bold, Segoe UI",
+    "italic": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "normalWeight": "Medium"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "name": "Halloween",
+  "description": "Rußschwarz und Kürbisorange, Knochenweiß als Schrift, Schleimgrün als Hervorhebung. Kontaktnamen und Überschriften in Chiller, das mit Office installiert wird.",
+  "author": "Nicolai Hanisch",
+  "base": "dark",
+
+  "seeds": {
+    "background": "#140A04",
+    "primary": "#FF8A1E",
+    "secondary": "#A6E22E",
+    "text": "#F5E6CF",
+    "navigation": "#0D0602",
+    "error": "#F0554C",
+    "success": "#8FD44F",
+    "warning": "#FFD23F"
+  },
+
+  "palette": {
+    "content": "#1B0E05",
+    "card": "#241408",
+    "field": "#241408",
+    "raised": "#2E1A0A",
+    "hover": "#3A230D",
+    "selection": "#4A2306",
+    "outline": "#33200C",
+    "outlineStrong": "#4E3316",
+    "textSecondary": "#C9AE8C",
+    "textTertiary": "#A98F6E",
+    "chromeTextSecondary": "#C9AE8C",
+    "chromeTextTertiary": "#A98F6E",
+    "accentHover": "#FFA64D",
+    "accentContainer": "#4E2607",
+    "callBackground": "#4E2607",
+    "ownMessage": "#4E2607",
+    "badge": "#B3121F",
+    "onBadge": "#F7EADA"
+  },
+
+  "fonts": {
+    "normal": "Segoe UI Semibold, Segoe UI",
+    "semiBold": "Chiller, Blackadder ITC, Old English Text MT, Segoe UI",
+    "bold": "Chiller, Blackadder ITC, Old English Text MT, Segoe UI",
+    "italic": "Chiller, Blackadder ITC, Old English Text MT, Segoe UI",
+    "normalWeight": "Medium"
+  }
+}

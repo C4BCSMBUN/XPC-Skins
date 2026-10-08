@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "name": "Toxic Violet",
+  "description": "Lila als Grundfarbe, Giftgrün für Schrift, Akzent und Auswahl.",
+  "author": "Nicolai Hanisch",
+  "base": "dark",
+
+  "seeds": {
+    "background": "#170B24",
+    "primary": "#A8FF2E",
+    "secondary": "#D8FF4A",
+    "text": "#DFFFB3",
+    "navigation": "#0F0718",
+    "error": "#FF7B63",
+    "success": "#79E86A",
+    "warning": "#FFE04A"
+  },
+
+  "palette": {
+    "content": "#1D0F2E",
+    "card": "#261440",
+    "field": "#261440",
+    "raised": "#311B4F",
+    "hover": "#3E245F",
+    "selection": "#2C4416",
+    "outline": "#33204A",
+    "outlineStrong": "#4A2F6B",
+    "textSecondary": "#B6E084",
+    "textTertiary": "#94B86C",
+    "chromeTextSecondary": "#B6E084",
+    "chromeTextTertiary": "#A0C575",
+    "accentHover": "#C4FF66",
+    "accentContainer": "#38541A",
+    "callBackground": "#38541A",
+    "ownMessage": "#38541A",
+    "badge": "#A8FF2E",
+    "onBadge": "#150A20"
+  },
+
+  "fonts": {
+    "normal": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "semiBold": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "bold": "Bahnschrift Bold, Segoe UI Bold, Segoe UI",
+    "italic": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "normalWeight": "Medium"
+  }
+}

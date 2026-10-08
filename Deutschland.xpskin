@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "name": "Deutschland",
+  "description": "Schwarz, Rot, Gold: Gold als Akzent auf neutralem Anthrazit, Rot für Zähler.",
+  "author": "Nicolai Hanisch",
+  "base": "dark",
+
+  "seeds": {
+    "background": "#121212",
+    "primary": "#FFCE00",
+    "secondary": "#FFE27A",
+    "text": "#F2F2F0",
+    "navigation": "#0A0A0A",
+    "error": "#FF6259",
+    "success": "#5ECB7A",
+    "warning": "#FFCE00"
+  },
+
+  "palette": {
+    "card": "#202020",
+    "field": "#202020",
+    "raised": "#2A2A2A",
+    "hover": "#353535",
+    "selection": "#3A2E08",
+    "outlineStrong": "#454545",
+    "textSecondary": "#BFBFBB",
+    "textTertiary": "#9B9B96",
+    "chromeTextSecondary": "#BFBFBB",
+    "chromeTextTertiary": "#9B9B96",
+    "accentHover": "#FFDD4D",
+    "accentContainer": "#4E3D00",
+    "callBackground": "#4E3D00",
+    "ownMessage": "#4E3D00",
+    "badge": "#C8102E",
+    "onBadge": "#FFFFFF"
+  },
+
+  "fonts": {
+    "normal": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "semiBold": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "bold": "Bahnschrift Bold, Segoe UI Bold, Segoe UI",
+    "italic": "Bahnschrift SemiBold, Segoe UI Semibold, Segoe UI",
+    "normalWeight": "Medium"
+  }
+}
